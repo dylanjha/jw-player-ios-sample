@@ -1,4 +1,6 @@
-This is an example app to demonstrate an issue with JW Player on iOS
+# Example app to demonstrate an issue with JW Player on iOS
+
+issue: https://github.com/jwplayer/JWPlayer-iOS-SDK-cocoapod/issues/49
 
 You'll need a valid JW Player API key to run this
 
@@ -29,3 +31,4 @@ Expected behavior:
   * The second log line should log the second hls video
 
 
+---
